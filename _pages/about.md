@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jan Röder"
+title: "Who & What"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
