@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jan Röder"
-  avatar           : "me.PNG" #"bio-photo.jpg"   
+  avatar           : "me.JPG" #"bio-photo.jpg"   
   bio              : "Newbie to radio astronomy. Background in general-relativistic radiative transfer and magneto-hydrodynamics, as well as synthetic VLBI. Member of the Event Horizon Telescope Collaboration (EHTC). PhD candidate at the Max-Planck-Institute for Radio Astronomy."
   location         : "Bonn, Germany"
   employer         :
