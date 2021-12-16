@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Jan Röder"
 description              : &description "PhD candidate @ Max-Planck-Institute for Radio Astronomy, Bonn, Germany"
 url                      : https://jroeder-astro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jroeder-astro/jroeder-astro.github.io"
 teaser                   : #"me.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jan Röder"
-  avatar           : "profile.png"   
+  avatar           : "me.png"   
   bio              : "Newbie to radio astronomy. Background in general-relativistic radiative transfer and magneto-hydrodynamics, as well as synthetic VLBI. Member of the Event Horizon Telescope Collaboration (EHTC). PhD candidate at the Max-Planck-Institute for Radio Astronomy."
   location         : "Bonn, Germany"
   employer         :
